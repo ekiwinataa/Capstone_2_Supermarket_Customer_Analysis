@@ -112,7 +112,7 @@ Understanding client behavior is critical in the modern retail landscape for org
   4. Income Category affecting customer purchase behavior
   5. Best Selling Product
 
-## **8. CONCLUSION AND RECOMMENDATION
+## **8. CONCLUSION AND RECOMMENDATION**
 
   1. CONCLUSION
      The analysis of the supermarket customer dataset has provided valuable insights into various aspects of customer behavior, purchase preferences, and product consumption. These findings offer actionable insights that can guide marketing strategies and decision-making to enhance customer engagement and satisfaction. Thus, it can significantly impact the overall business success
